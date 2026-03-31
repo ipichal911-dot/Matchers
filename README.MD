@@ -1,0 +1,1 @@
+![CI](https://github.com/ipichal911-dot/Matchers/actions/workflows/main.yml/badge.svg)
